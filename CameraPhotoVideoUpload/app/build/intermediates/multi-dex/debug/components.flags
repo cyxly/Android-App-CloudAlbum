@@ -1,0 +1,44 @@
+-injars 'E:\AndroidStudioProjects\CameraPhotoVideoUpload\app\build\intermediates\transforms\jarMerging\debug\jars\1\1f\combined.jar'
+-outjars 'E:\AndroidStudioProjects\CameraPhotoVideoUpload\app\build\intermediates\multi-dex\debug\componentClasses.jar'
+
+-libraryjars 'E:\Android\sdk1\build-tools\24.0.2\lib\shrinkedAndroid.jar'
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **,com.android.tools.fd.**,android.support.multidex.MultiDexExtractor
+-dontwarn **
+-printconfiguration 'E:\AndroidStudioProjects\CameraPhotoVideoUpload\app\build\intermediates\multi-dex\debug\components.flags'
+
+
+-keep class com.room2201.camerafileupload.MainActivity {
+    <init>();
+}
+
+-keep class com.room2201.camerafileupload.UploadActivity {
+    <init>();
+}
+
+-keep class com.room2201.camerafileupload.WatchVideo {
+    <init>();
+}
+
+-keep class com.room2201.camerafileupload.LoginActivity {
+    <init>();
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.fd.** {
+    <fields>;
+    <methods>;
+}

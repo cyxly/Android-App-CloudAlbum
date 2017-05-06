@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="22"
+    density="420dpi"
+    format="7"
+    timestamp="21239252644910"
+    token="-8962153981516932702" >
+
+    <task
+        name="javac"
+        duration="8967" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="4401" />
+    <task
+        name="verifier"
+        duration="2353" />
+
+    <artifact
+        location="E:\AndroidStudioProjects\CameraPhotoVideoUpload\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="21239252644910" >
+        <artifact
+            location="E:\AndroidStudioProjects\CameraPhotoVideoUpload\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

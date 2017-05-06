@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\AndroidStudioProjects\CameraPhotoVideoUpload\app\libs\httpmime-4.3.6.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="66a39a5e37d5da40fdad6176fc24ef4316e74702">
+        <dex dex="E:\AndroidStudioProjects\CameraPhotoVideoUpload\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpmime-4.3.6_eba02b2c32d46f6a0bcd220b2987ccbce05b8690\classes.dex" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\CameraPhotoVideoUpload\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="E:\AndroidStudioProjects\CameraPhotoVideoUpload\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_248afa8a88d7ffd34b48b34751fb2c308df679cc\classes.dex" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\CameraPhotoVideoUpload\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="E:\AndroidStudioProjects\CameraPhotoVideoUpload\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_fbee0d8e3467855b10d1d6a9fb0efb683f3ee954\classes.dex" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\CameraPhotoVideoUpload\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="E:\AndroidStudioProjects\CameraPhotoVideoUpload\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_338df3a64a7a8ccf695039f2d28d65f6991a51d5\classes.dex" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\CameraPhotoVideoUpload\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="E:\AndroidStudioProjects\CameraPhotoVideoUpload\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.0_2e0fb623e606a54f74b4fb837b0095ab23101f39\classes.dex" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\CameraPhotoVideoUpload\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="E:\AndroidStudioProjects\CameraPhotoVideoUpload\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_a1b02f3acce9a42754c0fbcc14ce25076bccbc72\classes.dex" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\CameraPhotoVideoUpload\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="E:\AndroidStudioProjects\CameraPhotoVideoUpload\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_1879b501d824cabfbbb62edb40e7e58093d7882a\classes.dex" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\CameraPhotoVideoUpload\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="26d343a64ae47e16381c43519065dcad1f951a77">
+        <dex dex="E:\AndroidStudioProjects\CameraPhotoVideoUpload\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_7ae6809000ff5033afce36c5ae489a9a398960dc\classes.dex" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\CameraPhotoVideoUpload\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="E:\AndroidStudioProjects\CameraPhotoVideoUpload\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_9c716833b8bce3c2c53b9f1f70dc643c255b504b\classes.dex" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\CameraPhotoVideoUpload\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="E:\AndroidStudioProjects\CameraPhotoVideoUpload\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_21acaa40fd4a4195a6cd5fbe88edad165d10f3d2\classes.dex" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\CameraPhotoVideoUpload\app\libs\httpclient-4.3.6.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f3cf3b25e14d3bca47773e95aa85ea8fefbf8e81">
+        <dex dex="E:\AndroidStudioProjects\CameraPhotoVideoUpload\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpclient-4.3.6_c85150f2a437d574a3095d646388c194d76f7db1\classes.dex" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\CameraPhotoVideoUpload\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="E:\AndroidStudioProjects\CameraPhotoVideoUpload\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_3b59263a2a7aa09299a6fc0f1f4e0371dd334e20\classes.dex" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\CameraPhotoVideoUpload\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="E:\AndroidStudioProjects\CameraPhotoVideoUpload\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.4.0_f074754012ca0a8f4ad94756463f66227490598a\classes.dex" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\CameraPhotoVideoUpload\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="E:\AndroidStudioProjects\CameraPhotoVideoUpload\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_37a1cadece8025be3c26422a4db333a6b6a731d6\classes.dex" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\CameraPhotoVideoUpload\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="E:\AndroidStudioProjects\CameraPhotoVideoUpload\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_d48f508e30b21a0a2937b39617035551b786a456\classes.dex" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\CameraPhotoVideoUpload\app\libs\httpcore-4.3.3.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="f91b7a4aadc5cf486df6e4634748d7dd7a73f06d">
+        <dex dex="E:\AndroidStudioProjects\CameraPhotoVideoUpload\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpcore-4.3.3_0aedf19e787be361bfad0af18ca3275d1ec2c531\classes.dex" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\CameraPhotoVideoUpload\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="bc830c226a35740302bc7a97ea456a29e03cdf7c">
+        <dex dex="E:\AndroidStudioProjects\CameraPhotoVideoUpload\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_917037a3e0733d6216e8342585ed888a2ce69785\classes.dex" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\CameraPhotoVideoUpload\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="E:\AndroidStudioProjects\CameraPhotoVideoUpload\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_81e4f268129059fcbaca1c8eadb819b1e839f20f\classes.dex" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\CameraPhotoVideoUpload\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="E:\AndroidStudioProjects\CameraPhotoVideoUpload\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.0_99a1a69bcb80b63ca64bdda391928786619b625c\classes.dex" />
+    </item>
+    <item
+        jar="E:\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="E:\AndroidStudioProjects\CameraPhotoVideoUpload\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_5e940ab04f21b5d2dee08b2827c9e0438bc8ba45\classes.dex" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\CameraPhotoVideoUpload\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="E:\AndroidStudioProjects\CameraPhotoVideoUpload\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_f54b2927f5ac937d0380b2b1d20e96ec5260552c\classes.dex" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\CameraPhotoVideoUpload\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="E:\AndroidStudioProjects\CameraPhotoVideoUpload\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_3093344b0b36263bf4eeca3c4778f06dfeb8978e\classes.dex" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\CameraPhotoVideoUpload\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="E:\AndroidStudioProjects\CameraPhotoVideoUpload\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_f53459ea030db9133f4c666df2a3220c7e43c7c7\classes.dex" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\CameraPhotoVideoUpload\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="E:\AndroidStudioProjects\CameraPhotoVideoUpload\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_1a1fb466478b6f833a00df23d71bf653290ae4c1\classes.dex" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\CameraPhotoVideoUpload\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="E:\AndroidStudioProjects\CameraPhotoVideoUpload\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_5c78433d0e7205cec2483c73138abf3bf4014e3c\classes.dex" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\CameraPhotoVideoUpload\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="E:\AndroidStudioProjects\CameraPhotoVideoUpload\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_feb9d55454c4373fd1943b511c45733d9146cc0d\classes.dex" />
+    </item>
+
+</items>

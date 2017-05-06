@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Camera File Upload</string>
+    <string name="btnRecordVideo">Record Video</string>
+    <string name="btnVideoUploaded">Video Uploaded</string>
+    <string name="prompt_email">User Name</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Register</string>
+    <string name="error_invalid_username">This username has been used</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="success">Correct Password!</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+</resources>
